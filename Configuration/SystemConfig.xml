@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Enviroment>
+
+    <!--Timeout-->
+    <Timeout>5</Timeout>
+
+    <!--Platform-->
+    <PlatformName>mobile</PlatformName>
+    <OS>windows</OS>
+
+    <!--Web-->
+    <BrowserName>chrome</BrowserName>
+    <Url>http://www.worldwidemetric.com/</Url>
+
+    <!--Mobile-->
+    <MobileOS>android</MobileOS>
+    <MobileUDID>L91HVCOU22ZTV</MobileUDID>
+    <MobilePackageName>com.shivgadhia.android.ukMortgageCalc</MobilePackageName>
+    <MobileActivityName>.MainActivity</MobileActivityName>
+    <AppiumServer>http://localhost:4722/wd/hub</AppiumServer>
+
+    <!--Appium Report-->
+    <AppiumReportDirectory>./appium-report</AppiumReportDirectory>
+    <AppiumReportFormat>xml</AppiumReportFormat>
+    <AppiumTestName>Mobile Tests</AppiumTestName>
+
+    <!--API-->
+    <APIUrl>http://localhost:9000/</APIUrl>
+
+    <!--Helpers-->
+    <ImgRepo>./ImageRepository/</ImgRepo>
+    <localApiJar>./students.jar</localApiJar>
+    <ImgFormat>png</ImgFormat>
+    <InspectAppPath>C:/Program Files (x86)/Windows Kits/10/bin/10.0.19041.0/x86/</InspectAppPath>
+    <WinAppDriverPath>C:/Program Files (x86)/Windows Application Driver/</WinAppDriverPath>
+    <JenkinsPath>C:/Automation/jenkins.war</JenkinsPath>
+
+    <!--Electron-->
+    <ElectronDriverPath>./Drivers/electrondriver.exe</ElectronDriverPath>
+    <ElectronAppPath>C:/Automation/ElectronApiDemo/Electron API Demos-win32-ia32/Electron API Demos.exe</ElectronAppPath>
+
+    <!--Windows-->
+    <WinAppPath>Microsoft.WindowsCalculator_8wekyb3d8bbwe!App</WinAppPath>
+    <WinAppServer>http://127.0.0.1:4723</WinAppServer>
+    <ActivateSubWinAppDriver>true</ActivateSubWinAppDriver>
+
+    <!--DB-->
+    <ActivateDB>false</ActivateDB>
+    <DBUrl>jdbc:mysql://sql7.freemysqlhosting.net:3306/sql7372988</DBUrl>
+    <DBUser>sql7372988</DBUser>
+    <DBPass>ps2hmRrDtD</DBPass>
+
+</Enviroment>

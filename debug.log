@@ -1,0 +1,14 @@
+[0925/151014.019:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1112/172940.507:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1112/172940.508:ERROR:exception_snapshot_win.cc(99)] thread ID 13552 not found in process
+[1112/173406.511:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1112/173406.512:ERROR:exception_snapshot_win.cc(99)] thread ID 8468 not found in process
+[1112/173406.521:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1112/173406.524:ERROR:exception_snapshot_win.cc(99)] thread ID 19648 not found in process
+[1113/185057.387:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1119/180522.135:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1119/180522.135:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1119/180522.137:ERROR:exception_snapshot_win.cc(99)] thread ID 3144 not found in process
+[1119/180522.137:ERROR:exception_snapshot_win.cc(99)] thread ID 11324 not found in process
+[1119/180522.159:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1119/180522.159:ERROR:exception_snapshot_win.cc(99)] thread ID 15816 not found in process
