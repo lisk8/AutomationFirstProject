@@ -14,9 +14,10 @@ This project uses Selenium, Appium, RestAssured, WinAppDriver, etc to do verious
 11. Mobile Support
 12. REST API Support
 13. Desktop Apps Support
-14. Electron Apps Support
-15. DB Support
-16. CI Jenkins Support
+14. Popup Windows Support
+15. Electron Apps Support
+16. DB Support
+17. CI Jenkins Support
 
 # Installations Required:
 1. Allure - 
