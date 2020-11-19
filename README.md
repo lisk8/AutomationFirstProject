@@ -19,3 +19,5 @@
 # Installations Required:
 1. Allure - 
 https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/
+2. Appium Studio - 
+https://experitest.com/mobile-test-automation/appium-studio/
