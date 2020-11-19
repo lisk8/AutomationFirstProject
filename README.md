@@ -1,3 +1,5 @@
+This project uses Selenium, Appium, RestAssured, WinAppDriver, etc to do verious automation tests on different Platforms.
+
 # Infrastructure:
 1. Failure Mechanism
 2. Page Objects Design Pattern
