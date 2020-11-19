@@ -21,3 +21,12 @@
 https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/
 2. Appium Studio - 
 https://experitest.com/mobile-test-automation/appium-studio/
+3. WinAppDriver - 
+https://github.com/Microsoft/WinAppDriver/releases
+4. Jenkins - 
+https://www.jenkins.io/download/
+5. Electron API Demos - 
+https://github.com/electron/electron-api-demos/releases
+MortgageCalculatorUK - Attached
+6. Inspect tool (Optional), Windows 10 SDK - 
+https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk/
