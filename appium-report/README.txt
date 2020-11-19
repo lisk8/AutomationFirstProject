@@ -1,1 +1,1 @@
-This is where the appium report is generated.
+This directory is where the appium report is generated.
