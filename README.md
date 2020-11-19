@@ -27,6 +27,6 @@ https://github.com/Microsoft/WinAppDriver/releases
 https://www.jenkins.io/download/
 5. Electron API Demos - 
 https://github.com/electron/electron-api-demos/releases
-6. MortgageCalculatorUK - Attached
+6. MortgageCalculatorUK.apk - Attached
 7. Inspect tool (Optional), Windows 10 SDK - 
 https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk/
