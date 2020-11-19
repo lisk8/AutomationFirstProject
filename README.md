@@ -32,3 +32,6 @@ https://github.com/electron/electron-api-demos/releases
 6. MortgageCalculatorUK.apk - Uploaded to project
 7. Inspect tool (Optional), Windows 10 SDK - 
 https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk/
+
+# Additional:
+*You might need to manually download appium (experitest) if the dependency doesn't work.
