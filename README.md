@@ -1,5 +1,5 @@
 This project uses Selenium, Appium, RestAssured, WinAppDriver, etc to do verious automation tests on different Platforms.\
-<a src="https://drive.google.com/file/d/1YJu-6E1qM48DJeMFmydveZ9QtWwg-Y_f/preview">**Watch Video**</a>
+[**Watch Video**](https://drive.google.com/file/d/1i3h360PECbi4aRi74Oqw4odp_BtRx2vk/view?usp=sharing)
 
 # Infrastructure:
 1. Failure Mechanism
